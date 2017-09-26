@@ -1,0 +1,5 @@
+# Learning Journal 6
+
+Working with the salmon cookie project has been fun. I didnt like having to write out every object on its own and having done the constructor functions in the prework it was annoying but I saw the value. However after I got home, I started making my edits by copy pasting because it began to get tedious. Especially since there were still a few syntax errors after I completed 5 functions in a row by hand that I had to find.
+
+I'm excited to see what javascript can do once I spend an afternoon writing 5x the code essentially because of things like constructor functions to generate frameworks really quickly. My mentor at Micron told me that many companies these days have a plethora of coders that have no desire to learn object oriented design because they are stuck on older languages or are scared of what taking the leap will do. As soon as I had to write the same property for just two different objects, I wanted constructor functions. I can't imagine what coding entire programs without even an object to organize properties would be like.
