@@ -1,0 +1,4 @@
+## Day 10
+
+Working with Jeff was great. I know he said he had trouble with CSS so I think it was good for him to work with me even though I am very slow at it. I think walking him through some of the steps consolidated what I know and made me a better coder. In addition, having someone to work on the html while I worked on the CSS made the whole process more assembly line like. We first diagrammed all the pieces on the handout with their generic tags like main and image and article. Then he began to code it and add divs while I was able to picture the end result and modify them whether they had been written or not.
+the whole process was pretty sweet. I was joking that if we were to pair up now, we could put ourselves on the market as a single coder. All in all i am happy with my first two weeks and cannot wait to dive back in on monday.
