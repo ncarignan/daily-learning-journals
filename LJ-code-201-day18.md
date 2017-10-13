@@ -1,0 +1,2 @@
+#Day 18 Journal
+I this is for thursday which should be day 19 so I think I have an off-by-one error in my journals but that is ok. I had a great time today and I felt very much like a project manager. I had to drive two projects at once because both Dustin and Andrew were assigned to game logic files that I had created. The code was relatively clear, we were just changing some big parts that required a lot of big picture referencing so it was helpful to have a driver. It was pretty useful for the team I think.
