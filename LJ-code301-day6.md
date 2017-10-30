@@ -1,0 +1,3 @@
+#Day 6
+
+I am very happy with how the weekend went. To be honest, I did not work on my homework until sunday but I had the code running around my head all weekend and I think I had a weird drunk nightmariish dream about code. Not that thats horrible, in my mind its nice to dream about code rather than axe murderers or something. The fear is more stress than life threatening XD. I felt like I followed along and that the big picture and individual function purposes were immediately understood when allie was going through the code in class. It was fairly smooth for me. I like trying to figure out the puzzle while it is still being pieced together.
